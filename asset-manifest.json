@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/RandomWordGuesser/static/js/main.1e3a904d.js",
+    "index.html": "/RandomWordGuesser/index.html",
+    "main.1e3a904d.js.map": "/RandomWordGuesser/static/js/main.1e3a904d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1e3a904d.js"
+  ]
+}
